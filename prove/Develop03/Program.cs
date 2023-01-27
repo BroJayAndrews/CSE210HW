@@ -3,8 +3,7 @@ using System;
 class Scripture
 {
     private string scripturetext;
-  
-        private Reference scriptureReference;
+     private Reference scriptureReference;
 
         public Scripture (Reference _scriptureReference, string _scriptureText)   
         {
